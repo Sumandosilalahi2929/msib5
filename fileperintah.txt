@@ -1,8 +1,3 @@
-Pembelajaran MSIB
-- HTML adalah kerangka website bootstrap
-- CSS merapihkan dokumen dan mewarnai dokumen
-saya mengedit file ini
-
 git add --> untuk menambahkan data 
 git commit - m -> untuk menambah tanda atau komentar 
 git push -u origin master -> memastikan file masuk kedalam repo
